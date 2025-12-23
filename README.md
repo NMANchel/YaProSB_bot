@@ -46,7 +46,7 @@ git clone <ваш_репозиторий>
 cd YAProSB_bot
 
 2.  **Установите зависимости:**
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 3. **Создайте файл .env в корне проекта:**
 BOT_TOKEN=Ваш токен
